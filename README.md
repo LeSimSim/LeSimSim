@@ -1,6 +1,6 @@
 ### Hi there 👋
-Welcome to my page
-# Why I'm awesome :
+I'm currently learning chemistry with a bachelor degree.
+
 <!--
 **LeSimSim/LeSimSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
