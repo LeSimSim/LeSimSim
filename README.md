@@ -5,7 +5,7 @@ How to contact me:
 - ✉️ simon.sermet-magdelain@epfl.ch
 - 📞 +41 78 256 89 98
 
-I'm looking for help with practical programming in chemistry 😉
+I'm looking for help with practical programming in chemistry so don't hesitate to send me some tips 😉
 
 <!--
 **LeSimSim/LeSimSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
