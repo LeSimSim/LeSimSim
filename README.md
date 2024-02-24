@@ -1,5 +1,11 @@
-### Hi there 👋
-I'm currently learning chemistry with a bachelor degree.
+### Hi there, I'm Simon 👋
+I'm currently learning chemistry with a bachelor degree at EPFL in Switzerland 🔬
+
+How to contact me:
+- ✉️ simon.sermet-magdelain@epfl.ch
+- 📞 +41 78 256 89 98
+
+I'm looking for help with practical programming in chemistry 😉
 
 <!--
 **LeSimSim/LeSimSim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
